@@ -3,7 +3,7 @@
 
 * {
 margin: 0;
-padding: 0:
+padding: 0;
 border: 0;
 outline: 0;
 box-sizing: border-box;
@@ -97,7 +97,7 @@ section > h5 {
   }
 
   btn:hover {
-    background var(--color-white);
+ 
     color: var(--color-bg);
     border-color: transparent;
   }
@@ -108,7 +108,7 @@ section > h5 {
 
   img {
     display: block;
-    width 100%;
+    width: 100%;
     object-fit: cover;
   }
 
