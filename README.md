@@ -36,4 +36,6 @@ NA
 [Github](https://github.com/momofastorm)
 
 [Email](mailto:marcyrappaport.blessed@gmail.com)
+![image](https://github.com/momofastorm/React-portfolio/assets/127702972/e52aac50-9881-4cd0-82b5-67d2538803aa)
+
 
